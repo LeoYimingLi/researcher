@@ -1,6 +1,7 @@
 title: Yi-Ming Li(Leo)
 url: "https://ankitsultana.com"
 baseurl: "/researcher"
+remote_theme: LeoYimingLi/Resume
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
